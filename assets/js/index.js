@@ -62,3 +62,4 @@ function renderAvatar(user) {
         $(".layui-nav-img").hide();
     }
 }
+
